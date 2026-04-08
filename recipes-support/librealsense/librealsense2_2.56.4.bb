@@ -54,6 +54,7 @@ FILES:${PN}-examples = "\
     ${bindir}/rs-depth \
     ${bindir}/rs-distance \
     ${bindir}/rs-hello-realsense \
+    ${bindir}/rs-on-chip-calib \
     ${bindir}/rs-pose \
     ${bindir}/rs-pose-and-image \
     ${bindir}/rs-pose-predict \

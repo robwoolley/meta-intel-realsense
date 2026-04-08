@@ -13,7 +13,7 @@ diff --git a/tools/realsense-viewer/CMakeLists.txt b/tools/realsense-viewer/CMak
 index 4e6c1768e..f3728b610 100644
 --- a/tools/realsense-viewer/CMakeLists.txt
 +++ b/tools/realsense-viewer/CMakeLists.txt
-@@ -252,9 +252,4 @@ install(
+@@ -261,9 +261,4 @@ install(
      TARGETS ${PROJECT_NAME}
      RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
  )
